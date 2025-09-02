@@ -1,3 +1,4 @@
 # team-project
 
-jira collaboration
+
+added jira to the collaboration
